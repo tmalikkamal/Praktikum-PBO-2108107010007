@@ -7,7 +7,7 @@ package No1;
 
 /**
  *
- * @author USER DK
+ * @author T.MalikKamal
  */
 public class Lembar_penilaian extends javax.swing.JFrame {
 
